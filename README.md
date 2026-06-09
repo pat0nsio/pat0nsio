@@ -1,4 +1,4 @@
-<h1 align="center">Pato</h1>
+<h1 align="center">Pato 🦆</h1>
 <h3 align="center">Informatics Engineering student @ UADE · Buenos Aires, Argentina</h3>
 
 <br/>
