@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Ameri 👋</h1>
+<h1 align="center">Pato</h1>
 <h3 align="center">Informatics Engineering student @ UADE · Buenos Aires, Argentina</h3>
 
 <br/>
 
-I build things end-to-end — scraping pipelines, REST APIs, embedded systems, and the frontends that tie them together. I care about clean architecture, real data, and projects that solve actual problems.
+I build things end-to-end: scraping pipelines, REST APIs, embedded systems, and the frontends that tie them together. I care about clean architecture, real data, and projects that solve actual problems.
 
 Currently looking for my first professional role in tech.
 
@@ -59,8 +59,6 @@ Full-stack web scraper that extracts product images, descriptions, and prices fr
 
 `TypeScript` `React` `Vite` `Python` `Flask` `Docker` `Azure` `CI/CD`
 
-🔗 [Live demo](https://yellow-moss-092076e0f.2.azurestaticapps.net)
-
 ---
 
 ### [SubteLCD](https://github.com/pat0nsio/SubteLCD)
@@ -79,8 +77,8 @@ Polyglot persistence architecture simulating a social network backend. Four data
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-ameri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patricioameri@gmail.com)
 
 ---
 
