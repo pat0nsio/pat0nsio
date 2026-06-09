@@ -48,7 +48,7 @@ Currently looking for my first professional role in tech.
 ## 🚀 Projects
 
 ### [BetNova](https://github.com/pat0nsio/BetNova)
-Custom REST API for Argentine football data, built by reverse-engineering [promiedos.com.ar](https://www.promiedos.com.ar/) — the main live results site in the country, with no public API. Playwright drives a headless browser to parse the live DOM and serve structured JSON with endpoints for live matches, historical results, league standings, and top scorers. Includes an in-memory cache with differentiated TTLs and a SQL Server persistence pipeline.
+Custom REST API for Argentine football data, built by reverse-engineering [promiedos.com.ar](https://www.promiedos.com.ar/), the main live results site in the country, with no public API. Playwright drives a headless browser to parse the live DOM and serve structured JSON with endpoints for live matches, historical results, league standings, and top scorers. Includes an in-memory cache with differentiated TTLs and a SQL Server persistence pipeline.
 
 `Python` `Flask` `Playwright` `SQL Server` `React Native`
 
@@ -69,7 +69,7 @@ Arduino sketch for an ESP32 that replicates the arrival time displays found in B
 ---
 
 ### TP-MongoDB *(private)*
-Polyglot persistence architecture simulating a social network backend. Four database engines — MongoDB, Redis, Neo4j, and Cassandra — each handling the workload they're designed for. Python data pipeline and a separate Java/Javalin REST backend.
+Polyglot persistence architecture simulating a social network backend. Four database engines; MongoDB, Redis, Neo4j, and Cassandra; each handling the workload they're designed for. Python data pipeline and a separate Java/Javalin REST backend.
 
 `Python` `Java` `MongoDB` `Redis` `Neo4j` `Cassandra`
 
@@ -79,11 +79,3 @@ Polyglot persistence architecture simulating a social network backend. Four data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-ameri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patricioameri@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pat0nsio&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat0nsio&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
