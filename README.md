@@ -68,7 +68,7 @@ Arduino sketch for an ESP32 that replicates the arrival time displays found in B
 
 ---
 
-### TP-MongoDB *(private)*
+### DataEngineering
 Polyglot persistence architecture simulating a social network backend. Four database engines; MongoDB, Redis, Neo4j, and Cassandra; each handling the workload they're designed for. Python data pipeline and a separate Java/Javalin REST backend.
 
 `Python` `Java` `MongoDB` `Redis` `Neo4j` `Cassandra`
