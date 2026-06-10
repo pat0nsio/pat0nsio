@@ -9,7 +9,7 @@ Currently looking for my first professional role in tech.
 
 ---
 
-## 🔧 Stack
+## Stack
 
 **Languages**
 
@@ -45,7 +45,7 @@ Currently looking for my first professional role in tech.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [BetNova](https://github.com/pat0nsio/BetNova)
 Custom REST API for Argentine football data, built by reverse-engineering [promiedos.com.ar](https://www.promiedos.com.ar/), the main live results site in the country, with no public API. Playwright drives a headless browser to parse the live DOM and serve structured JSON with endpoints for live matches, historical results, league standings, and top scorers. Includes an in-memory cache with differentiated TTLs and a SQL Server persistence pipeline.
@@ -75,7 +75,7 @@ Polyglot persistence architecture simulating a social network backend. Four data
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-ameri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patricioameri@gmail.com)
